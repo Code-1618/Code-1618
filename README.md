@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Code-1618
-- 👀 I’m interested in ... University Computerscience, Learnging C, Penn testing and getting myself incorporated.
+- 👀 I’m interested in ... University Computerscience, Learnging C and Bash, Penn testing and getting myself incorporated.
 - 🌱 I’m currently learning ... Everything
 - 💞️ I’m looking to collaborate on ... I'm openminded, my strength and interests lean toward networks, but I'm still relatively new
 - 📫 How to reach me ... code1618@proton.me
